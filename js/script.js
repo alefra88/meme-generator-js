@@ -92,7 +92,7 @@ class CreadorMemes {
             this.imagenCanvas.height,
             this.imagenCanvas.width
           );
-          let waterMark = "momosaxol.nel";
+          let waterMark = "memesIPTE.soluciones";
           contexto.font = "12px sans-serif";
           contexto.fillStyle = "rgba(255, 255, 255, 0.5)";
           contexto.fillText(
